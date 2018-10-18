@@ -1,0 +1,7 @@
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\obj\Debug\gameLife.csprojAssemblyReference.cache
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\obj\Debug\gameLife.csproj.CoreCompileInputs.cache
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\bin\Debug\gameLife.exe.config
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\bin\Debug\gameLife.exe
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\bin\Debug\gameLife.pdb
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\obj\Debug\gameLife.exe
+C:\Users\МАКСИМ\source\repos\gameLife\gameLife\obj\Debug\gameLife.pdb
